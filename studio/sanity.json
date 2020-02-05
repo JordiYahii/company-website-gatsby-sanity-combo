@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "7j9cnsfo",
+    "projectId": "gpsaachq",
     "dataset": "production"
   },
   "project": {
-    "name": "Gatsby Demo",
+    "name": "Gatsby Sanity combo",
     "basePath": "/"
   },
   "plugins": [
@@ -26,4 +26,3 @@
     }
   ]
 }
-
